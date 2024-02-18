@@ -12,7 +12,7 @@
       <swiper-slide
         ><v-container
           ><v-row
-            ><v-col cols="6" class="flex justify-center items-center">
+            ><v-col cols="10" md="6" class="flex justify-center items-center">
               <!-- Start Left Text -->
               <div class="text flex flex-col mt-10 ml-10 text-start z-10">
                 <h1 class="font-bold text-4xl text-gray-700">Handmade</h1>
@@ -29,7 +29,7 @@
                 </h1>
               </div>
               <!-- Start Right Image --> </v-col
-            ><v-col>
+            ><v-col cols="12" md="4">
               <div class="text-center items-center">
                 <img src="/assets/images/img1.png" alt="" />
               </div> </v-col></v-row></v-container
@@ -37,7 +37,7 @@
       <swiper-slide
         ><v-container
           ><v-row
-            ><v-col cols="6" class="flex justify-center items-center">
+            ><v-col cols="10" md="6" class="flex justify-center items-center">
               <!-- Start Left Text -->
               <div class="text flex flex-col mt-10 ml-10 text-start z-10">
                 <h1 class="font-bold text-4xl text-gray-700">
@@ -56,14 +56,14 @@
                 </h1>
               </div>
               <!-- Start Right Image --> </v-col
-            ><v-col>
+            ><v-col cols="12" md="4">
               <div class="text-center items-center">
                 <img src="/assets/images/img2.png" alt="" />
               </div> </v-col></v-row></v-container></swiper-slide
       ><swiper-slide
         ><v-container
           ><v-row
-            ><v-col cols="6" class="flex justify-center items-center">
+            ><v-col cols="10" md="6" class="flex justify-center items-center">
               <!-- Start Left Text -->
               <div class="text flex flex-col mt-10 ml-10 text-start z-10">
                 <h1 class="font-bold text-4xl text-gray-700">High Beam</h1>
@@ -80,7 +80,7 @@
                 </h1>
               </div>
               <!-- Start Right Image --> </v-col
-            ><v-col>
+            ><v-col cols="12" md="4">
               <div class="text-center items-center">
                 <img src="/assets/images/img3.png" alt="" />
               </div> </v-col></v-row></v-container
