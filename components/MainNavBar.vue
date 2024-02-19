@@ -17,10 +17,10 @@ onBeforeUnmount(() => {
   <div class="nav" style="background-color: rgb(245, 245, 245)">
     <v-container>
       <v-row
-        class="navBar flex justify-between items-center"
+        class="navBar mt-2 flex justify-between items-center"
         style="transform: translateY(-20%)"
       >
-        <v-col cols="6" md="2">
+        <v-col cols="6" md="2" >
           <img
             class="cursor-pointer"
             style="width: 200px; height: 100px"

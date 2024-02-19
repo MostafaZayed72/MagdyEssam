@@ -12,7 +12,7 @@
       <swiper-slide
         ><v-container
           ><v-row
-            ><v-col cols="10" md="6" class="flex justify-center items-center">
+            ><v-col cols="8" md="6" class="flex justify-center items-center">
               <!-- Start Left Text -->
               <div class="text flex flex-col mt-10 ml-10 text-start z-10">
                 <h1 class="font-bold text-4xl text-gray-700">Handmade</h1>
@@ -37,7 +37,7 @@
       <swiper-slide
         ><v-container
           ><v-row
-            ><v-col cols="10" md="6" class="flex justify-center items-center">
+            ><v-col cols="8" md="6" class="flex justify-center items-center">
               <!-- Start Left Text -->
               <div class="text flex flex-col mt-10 ml-10 text-start z-10">
                 <h1 class="font-bold text-4xl text-gray-700">
@@ -63,7 +63,7 @@
       ><swiper-slide
         ><v-container
           ><v-row
-            ><v-col cols="10" md="6" class="flex justify-center items-center">
+            ><v-col cols="8" md="6" class="flex justify-center items-center">
               <!-- Start Left Text -->
               <div class="text flex flex-col mt-10 ml-10 text-start z-10">
                 <h1 class="font-bold text-4xl text-gray-700">High Beam</h1>
